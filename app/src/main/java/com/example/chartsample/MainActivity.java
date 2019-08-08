@@ -32,6 +32,9 @@ public class MainActivity extends AppCompatActivity {
         chart = findViewById(R.id.chart1);
 
 
+
+
+
         // Algumas configurações do gráfico,
         // não sei detalhadamente o que cada uma faz
         // mas o nome do metodo da uma sugestão (parte estética apenas)
